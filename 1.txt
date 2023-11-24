@@ -1,3 +1,4 @@
 this is timetrack app. based on React Native.
 
-Cool
+To get badges.
+Successfull!
